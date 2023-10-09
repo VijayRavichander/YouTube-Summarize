@@ -1,0 +1,5 @@
+openai
+requests
+numpy
+pytube
+git+https://github.com/openai/whisper.git
