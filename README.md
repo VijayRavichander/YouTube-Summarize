@@ -12,8 +12,7 @@ The YouTube Transcriber and Summarizer is a Python application that leverages Op
 
 - Transcribe the audio from a YouTube video.
 - Summarize the transcribed content.
-- Easy-to-use command-line interface (CLI).
-- Customizable summarization length and style.
+- Easy-to-use GUI.
 - Supports various video formats and qualities.
 
 
